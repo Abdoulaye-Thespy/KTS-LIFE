@@ -165,7 +165,7 @@ h6 {
   font-weight: 600;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  width: 700px;
+/*  width: 700px;*/
 
 }
 
@@ -1799,9 +1799,15 @@ section {
   text-align: center;
   font-size: 13px;
 }
-
+/*
+.logo-container {
+  max-width: 150px;
+  max-width: 150px;
+  margin: 0 auto; 
+}
+*/
 .my-logo {
-  width: 310px;
+  width: 250px;
 }
 
 #counts p {
